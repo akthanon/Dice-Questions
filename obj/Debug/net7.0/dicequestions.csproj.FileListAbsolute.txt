@@ -1,0 +1,14 @@
+D:\Proyectos\Popo\dicequestions\bin\Debug\net7.0\dicequestions.exe
+D:\Proyectos\Popo\dicequestions\bin\Debug\net7.0\dicequestions.deps.json
+D:\Proyectos\Popo\dicequestions\bin\Debug\net7.0\dicequestions.runtimeconfig.json
+D:\Proyectos\Popo\dicequestions\bin\Debug\net7.0\dicequestions.dll
+D:\Proyectos\Popo\dicequestions\bin\Debug\net7.0\dicequestions.pdb
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.AssemblyInfoInputs.cache
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.AssemblyInfo.cs
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.csproj.CoreCompileInputs.cache
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.dll
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\refint\dicequestions.dll
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.pdb
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\dicequestions.genruntimeconfig.cache
+D:\Proyectos\Popo\dicequestions\obj\Debug\net7.0\ref\dicequestions.dll
